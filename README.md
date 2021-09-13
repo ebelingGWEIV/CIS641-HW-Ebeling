@@ -1,4 +1,4 @@
-# CIS641-HW-Ebeling
+# CIS641-HW2-Ebeling
 
 ## Author: George Ebeling
 
