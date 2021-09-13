@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# CIS641-HW2-Ebeling
 
-You can use the [editor on GitHub](https://github.com/ebelingGWEIV/CIS641-HW2-Ebeling/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Author: George Ebeling
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image of George Ebeling](./assets/IMG_20200702_182332.jpg "George Ebeling")
 
-### Markdown
+### Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* **Rock Climbing**: I have been an avid climber for the last couple years. My brother and I do a fair amount of bouldering together at the GVSU gym and TerraFirma. Recently, I became interestsed in sport climbing and did a trip to Red River Gorge in Kentucky to do some outdoor climbing.
+* **Rocket League**: For the last 3 years I have been playing Rocket League with the GVSU esports club. Rocket League is a physicals based game of car soccer (or 'soccar') with the additional mechanic of acrobatic functions of the cars. I occassionally play with different online communities outside of the university.
+* **Cyber Security**: While I do not have interest in purusing cyber security as a profession, I do find it interesting and enjoy following news and learning more about its history. I am an avid listener of Darknet Diaries, a podcast that tells indepth and sometimes unkown stories of the information security field.
 
-```markdown
-Syntax highlighted code block
+## Technical Background
 
-# Header 1
-## Header 2
-### Header 3
+* **Schooling**: In my courses for computer engineering, I did a lot of work with embedded C programming. I took various courses where I used C++, MATLAB, Java, and Python3. 
+* **Work Experience**: I gained work experience with C#, C++, and SQL while working at my co-op. I wrote software for x86 Windows 10 and Linux, and ARM Linux. I also worked with batch, bash, and powershell scripts for automating database scripts.
+* **Miscellanious**: I have helped with science olympiad and FIRST robitics teams where I helped the students learn Python3 and Java programming.
+* **Home**: I try to diversify the languages and platforms that I use when doing personal projects. Using Texas Instruments launchpads or Raspberry Pis, I try to have some level of embedded computing that either communicates sensor readings or controls servos and motors. For the desktop side of the projects I have used C#, C++, and Python to perform more advanced computing tasks.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ebelingGWEIV/CIS641-HW2-Ebeling/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
