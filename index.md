@@ -4,7 +4,7 @@
 
 ![Image of George Ebeling](./assets/IMG_20200702_182332.jpg "George Ebeling")
 
-### Interests
+## Interests
 
 * **Rock Climbing**: I have been an avid climber for the last couple years. My brother and I do a fair amount of bouldering together at the GVSU gym and TerraFirma. Recently, I became interestsed in sport climbing and did a trip to Red River Gorge in Kentucky to do some outdoor climbing.
 * **Rocket League**: For the last 3 years I have been playing Rocket League with the GVSU esports club. Rocket League is a physicals based game of car soccer (or 'soccar') with the additional mechanic of acrobatic functions of the cars. I occassionally play with different online communities outside of the university.
