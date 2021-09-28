@@ -17,7 +17,7 @@
 * **Miscellanious**: I have helped with science olympiad and FIRST robitics teams where I helped the students learn Python3 and Java programming.
 * **Home**: I try to diversify the languages and platforms that I use when doing personal projects. Using Texas Instruments launchpads or Raspberry Pis, I try to have some level of embedded computing that either communicates sensor readings or controls servos and motors. For the desktop side of the projects I have used C#, C++, and Python to perform more advanced computing tasks.
 
-## CIS 641 Project: The Jolly Snowman
+## CIS 641 Project: <a href="https://computergeek1507.github.io/GVSU-CIS641-Jolly-Snowman/">Jolly Snowman</a>
 
 ### Status: on going
 
